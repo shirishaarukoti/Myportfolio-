@@ -45,7 +45,7 @@ const About = () => {
         {/* Right - Image */}
         <div className="w-68 h-100 overflow-hidden shadow-lg border-4 border-pink-200 flex-shrink-0">
           <img
-            src="image.jpeg"
+            src="img2.jpeg"
             alt="About Me"
             className="w-full h-full object-cover"
           />
