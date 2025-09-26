@@ -39,7 +39,7 @@ const ProjectsPage = () => {
           {/* Buttons */}
           <div className="ml-10 flex gap-4">
             <a
-              href="https://github.com/yourusername/todolist"
+              href="https://github.com/shirishaarukoti/Myportfolio-"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 bg-pink-500 text-white rounded-lg shadow-md hover:bg-pink-600 transition"
@@ -47,7 +47,7 @@ const ProjectsPage = () => {
               GitHub Repo
             </a>
             <a
-              href="https://yourtodolistdemo.com"
+              href="https://github.com/shirishaarukoti/Myportfolio-"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 bg-purple-500 text-white rounded-lg shadow-md hover:bg-purple-600 transition"
